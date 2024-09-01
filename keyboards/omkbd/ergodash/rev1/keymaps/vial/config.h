@@ -35,3 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 // #define MASTER_RIGHT
 // #define EE_HANDS
+
+#define RGBLIGHT_LAYERS
+#define USB_SUSPEND_WAKEUP_DELAY 5000
+#define RGBLIGHT_SLEEP
